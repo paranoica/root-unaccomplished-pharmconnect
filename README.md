@@ -1,24 +1,21 @@
 # Introduction  
-Welcome to **Pharmconnect WHMS (Warehouse Inventory Management System)**, a solution meticulously crafted to streamline and optimize your inventory operations.  
+Welcome to **PharmConnect WHMS (Warehouse Inventory Management System)**, a solution meticulously crafted to streamline and optimize your inventory operations.  
 
-Now powered by **ASP.NET Core 9.0**, the latest cutting-edge technology from Microsoft, WHMS is faster than ever and showcases the future of modern web development. With its fully decoupled **headless API** architecture, WHMS enables seamless integration between the back end and front end, offering unparalleled flexibility and performance.  
+Now powered by **ASP.NET Core 9.0**, the latest cutting-edge technology from Microsoft, PC WHMS is faster than ever and showcases the future of modern web development. With its fully decoupled **headless API** architecture, PC WHMS enables seamless integration between the back end and front end, offering unparalleled flexibility and performance.  
 
 The back end is built using **Clean Architecture**, **CQRS**, **MediatR**, and the **Repository Pattern**, ensuring maintainability and scalability for enterprise-grade applications. On the front end, **ASP.NET Core Razor Pages** and **Vue.js** come together to create a dynamic and user-friendly interface.  
 
 ## Key Features  
-WHMS provides a comprehensive suite of capabilities:  
+PC WHMS provides a comprehensive suite of capabilities:  
 - **Sales, Purchase, Delivery, and Goods Receive**  
 - **Transfer, Adjustment, Return, and Scrapping**  
 - **Stock Count and Detailed Reporting Functionalities**  
 
-🎯 **Challenge Yourself!**  
-Experience the blazing speed and efficiency of **.NET 9**, the latest breakthrough in performance from Microsoft. Explore our **live online demo** today and see firsthand how WHMS can revolutionize your inventory management operations.  
-
 # Monolithic Clean Architecture  
 
-WHMS is built using a **Monolithic Clean Architecture** approach, ensuring a structured and simplified development process. By keeping all components within a single codebase, dependency management is streamlined, eliminating the risk of a **dependency nightmare**. This approach consolidates all dependencies in one place, ensuring compatibility and coherence across the entire system.  
+PC WHMS is built using a **Monolithic Clean Architecture** approach, ensuring a structured and simplified development process. By keeping all components within a single codebase, dependency management is streamlined, eliminating the risk of a **dependency nightmare**. This approach consolidates all dependencies in one place, ensuring compatibility and coherence across the entire system.  
 
-Additionally, it simplifies **deployment**, as all code resides in a single repository with a well-optimized pipeline, reducing complexity. The **cohesive project structure** provides a clear and consistent source code pattern, making it easier for developers to understand and maintain the system. With the combination of Clean Architecture, CQRS, and MediatR, WHMS delivers a **scalable, maintainable, and enterprise-ready solution**.
+Additionally, it simplifies **deployment**, as all code resides in a single repository with a well-optimized pipeline, reducing complexity. The **cohesive project structure** provides a clear and consistent source code pattern, making it easier for developers to understand and maintain the system. With the combination of Clean Architecture, CQRS, and MediatR, PC WHMS delivers a **scalable, maintainable, and enterprise-ready solution**.
 
 # Technical Features
 - **ASP.NET Core 9.0 Headless API** (Back End)
